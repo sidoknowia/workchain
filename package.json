@@ -1,0 +1,23 @@
+{
+  "name": "workchain",
+  "version": "1.0.0",
+  "description": "Workflow management using blockchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "init"
+  },
+  "keywords": [
+    "blockchain",
+    "workflow",
+    "javascript",
+    "node",
+    "supply",
+    "chain",
+    "IoT"
+  ],
+  "author": "Siddharth Patel (sidpatel789@gmail.com)",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  }
+}
